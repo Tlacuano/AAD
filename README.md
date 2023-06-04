@@ -1,1 +1,3 @@
 # AAD
+
+/* ALIAS: jueguito pokemon */
